@@ -1,0 +1,56 @@
+.red {
+    color: #72AA48;
+}
+
+.text-red {
+    color: #72AA48;
+}
+
+.sidebar .sidebar-inner > li.active > a {
+    background-color: #72AA48;
+}
+
+a {
+    color: #72AA48;
+}
+
+a:hover {
+background-color: #72AA48;
+color: #fff;
+}
+
+.nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link {
+    color: #72AA48;
+}
+
+.sidebar-footer-content {
+    background-color: #72AA48;
+}
+
+.switch-primary > .switch-input:checked ~ .switch-label {
+    background-color: #72AA48 !important;
+    border-color: #72AA48;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #72AA48;
+    border-color: #72AA48;
+}
+
+::selection {
+    background-color: #72AA48;
+    color: #fff;
+}
+
+.page-item.active .page-link {
+    z-index: 3;
+    color: #ffffff;
+    background-color: #72AA48;
+    border-color: #72AA48;
+}
+.btn-dark:hover {
+    color: #ffffff;
+    background-color: #72AA48;
+    border-color: #72AA48;
+}
